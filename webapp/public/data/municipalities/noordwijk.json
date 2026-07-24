@@ -1,6 +1,6 @@
 {
   "municipality": "Noordwijk",
-  "generated_at": "2026-07-24T14:01:25.385204+00:00",
+  "generated_at": "2026-07-24T19:38:15.887675+00:00",
   "facility_count": 2,
   "facilities": [
     {
@@ -14,12 +14,12 @@
       "province": "Zuid-Holland",
       "latitude": 52.243867,
       "longitude": 4.431611,
-      "capacity": 250,
-      "vacantSpaces": null,
-      "occupancyPercent": null,
-      "open": null,
-      "full": null,
-      "lastUpdated": null,
+      "capacity": 240,
+      "vacantSpaces": 124,
+      "occupancyPercent": 48.3,
+      "open": true,
+      "full": false,
+      "lastUpdated": 1784921190,
       "minimumHeightInMeters": 0.0,
       "chargingPointCapacity": 0,
       "disabledAccess": false,
