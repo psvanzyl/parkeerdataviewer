@@ -1,6 +1,6 @@
 {
   "municipality": "Zeist",
-  "generated_at": "2026-07-25T20:58:55.639748+00:00",
+  "generated_at": "2026-07-25T22:00:41.728597+00:00",
   "facility_count": 1,
   "facilities": [
     {
@@ -15,11 +15,11 @@
       "latitude": 52.064487,
       "longitude": 5.258174,
       "capacity": 568,
-      "vacantSpaces": 529,
-      "occupancyPercent": 6.9,
+      "vacantSpaces": 536,
+      "occupancyPercent": 5.6,
       "open": true,
       "full": false,
-      "lastUpdated": 1785012490,
+      "lastUpdated": 1785015994,
       "minimumHeightInMeters": 2.1,
       "chargingPointCapacity": 0,
       "disabledAccess": false,
