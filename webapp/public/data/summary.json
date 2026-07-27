@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T00:05:55.386942+00:00",
+  "generated_at": "2026-07-27T03:57:50.176305+00:00",
   "total_facilities": 311,
   "total_with_dynamic": 311,
-  "total_capacity": 99834,
-  "total_vacant": 96480,
-  "total_occupied": 3354,
-  "facilities_open": 289,
+  "total_capacity": 99827,
+  "total_vacant": 96629,
+  "total_occupied": 3198,
+  "facilities_open": 282,
   "facilities_full": 19,
   "municipalities": 74,
   "by_operator": {
