@@ -1,6 +1,6 @@
 {
   "municipality": "Hengelo",
-  "generated_at": "2026-07-27T07:38:45.865650+00:00",
+  "generated_at": "2026-07-27T11:31:26.555431+00:00",
   "facility_count": 1,
   "facilities": [
     {
@@ -15,11 +15,11 @@
       "latitude": 52.260827,
       "longitude": 6.795602,
       "capacity": 256,
-      "vacantSpaces": 217,
-      "occupancyPercent": 15.2,
+      "vacantSpaces": 213,
+      "occupancyPercent": 16.8,
       "open": true,
       "full": false,
-      "lastUpdated": 1785137820,
+      "lastUpdated": 1785151676,
       "minimumHeightInMeters": 2.1,
       "chargingPointCapacity": 0,
       "disabledAccess": false,
