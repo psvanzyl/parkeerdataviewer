@@ -1,14 +1,8 @@
-FROM node:20-alpine AS base
+FROM node:20-alpine
 WORKDIR /app
 COPY webapp/package*.json ./
 RUN npm ci
 COPY webapp/ .
 RUN npm run build
-FROM node:20-alpine AS runner
-WORKDIR /app
-ENV NODE_ENV=production
-COPY --from=base /app/.next/standalone ./
-COPY --from=base /app/.next/static ./.next/static
-COPY --from=base /app/public ./public
 EXPOSE 3000
-CMD ["node", "server.js"]
+CMD ["npm", "run", "start"]
